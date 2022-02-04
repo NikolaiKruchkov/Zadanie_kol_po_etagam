@@ -1,0 +1,5 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.4\Column_po_etag\Column_po_etag\bin\Debug\Column_po_etag.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.4\Column_po_etag\Column_po_etag\bin\Debug\Column_po_etag.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.4\Column_po_etag\Column_po_etag\obj\Debug\Column_po_etag.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.4\Column_po_etag\Column_po_etag\obj\Debug\Column_po_etag.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 2.4\Column_po_etag\Column_po_etag\obj\Debug\Column_po_etag.pdb

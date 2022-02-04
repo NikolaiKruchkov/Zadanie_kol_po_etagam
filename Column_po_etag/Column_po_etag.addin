@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\Column_po_etag.dll"</Assembly>		
+		<AddInId>7068AF01-AEAD-41A7-9F3B-39E94EFB8CDF</AddInId>		
+		<FullClassName>Column_po_etag.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Задание 2.4</Text>
+	</AddIn>
+</RevitAddIns>
